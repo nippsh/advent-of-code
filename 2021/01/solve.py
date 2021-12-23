@@ -1,5 +1,4 @@
 def read_input(file_path: str) -> list:
-    input = []
     with open(file_path) as file:
         input = [int(line.strip()) for line in file]
     
