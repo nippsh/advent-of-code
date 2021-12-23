@@ -6,7 +6,7 @@
 | -----------------------------------------   | ------ 
 | [01](https://adventofcode.com/2021/day/1)   | ⭐⭐ 
 | [02](https://adventofcode.com/2021/day/2)   | ⭐⭐
-| [03](https://adventofcode.com/2021/day/3)   |  
+| [03](https://adventofcode.com/2021/day/3)   | ⭐⭐
 | [04](https://adventofcode.com/2021/day/4)   | 
 | [05](https://adventofcode.com/2021/day/5)   |  
 | [06](https://adventofcode.com/2021/day/6)   |  
